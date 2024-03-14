@@ -2,4 +2,4 @@
 - `` npm install ``
 - `` npm run dev ``
 
-# https---github.com-Bombay-Kitchen-BombayKitchenUI-tree-init
+Official website of Bombay Kitchen
